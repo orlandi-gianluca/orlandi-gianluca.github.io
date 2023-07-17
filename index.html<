@@ -1,11 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Orlandi</title>
+<title>OrlandiFly</title>
+<link href="style.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 20px;
+}
+</style>
+<h1 id="primo">Home Page - Compagnia di volo Orlandi's Fly</h1>
 </head>
-  <body>
-    <h1 align="center" ><h1>
-      </body>
-</html>
+<body>
+<ul>
+  <li><a href="Tickets.html">Rotte Esclusive</a></li>
+  <li><a href="About us.html">About us</a></li>
+  <li><a href="Home.html">Home</a></li>
+</ul>
+<hr>
+<header>
+<div id="quarto">
+<h2>I Nostri Servizi Disponibili</h2>
+<div class="responsive">
+  <div class="gallery">
+    <img src="uno.jpg" width="50" height="50">
+    <div style="color: white;">Viaggia con noi in <b>Sicurezza</b></div>
+  </div>
+</div>
+  
+
+</header>
+<div class="quinto">
+<h3>Prenotazioni Online OrlandiFly</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque placeat quo qui culpa commodi! Quia praesentium quos inventore rem porro rerum placeat adipisci illum architecto corrupti, ullam voluptas saepe eos! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur natus voluptatum rem necessitatibus totam reiciendis quia voluptatem eligendi animi, praesentium omnis debitis labore cum qui, atque sed ipsum. Nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci id porro voluptatem consequuntur velit fugiat ad facilis iste molestias nulla rerum ullam culpa aliquam quibusdam, aliquid ea nam non maxime? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere iste aspernatur odio, quibusdam tempora soluta corporis. Nihil optio ratione reprehenderit voluptas libero quod repellendus cum et temporibus accusantium, cumque dignissimos?</p>
+</div>
+<hr>
+<div class="sesto">
+  <h3>Bagagli a Mano</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque placeat quo qui culpa commodi! Quia praesentium quos inventore rem porro rerum placeat adipisci illum architecto corrupti, ullam voluptas saepe eos! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur natus voluptatum rem necessitatibus totam reiciendis quia voluptatem eligendi animi, praesentium omnis debitis labore cum qui, atque sed ipsum. Nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci id porro voluptatem consequuntur velit fugiat ad facilis iste molestias nulla rerum ullam culpa aliquam quibusdam, aliquid ea nam non maxime? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere iste aspernatur odio, quibusdam tempora soluta corporis. Nihil optio ratione reprehenderit voluptas libero quod repellendus cum et temporibus accusantium, cumque dignissimos?</p>
+  </div>
+<footer> Numero di Tel. 333 333 3333 - Indirizzo E-mail orlandi.gianluca@iismariecurievr.it</footer>
+
+</body>
 
     
