@@ -1,1 +1,113 @@
+#primo {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 2em;
+  letter-spacing: 2px;
+  font-family: sans-serif;
 
+  }
+
+  body  {
+    min-height: 100vh;
+  background: linear-gradient(#2b1055,#7597de);  
+  }
+  
+  #secondo {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+  }
+
+  #quarto { 
+position: relative;
+padding: 30px;
+background: #0095B6;
+align-items: center;
+}
+  h2 { 
+color: white;
+font-family:  sans-serif;
+letter-spacing: 2px;
+}
+
+div .gallery img { 
+ position: relative;
+ left: 60px;
+ align-items: center;
+}
+.gallery {
+font-family: sans-serif;
+letter-spacing: 1px;
+font-size: small
+}
+
+div .galler img { 
+  position: relative;
+  left: 290px;
+  align-items: center;
+ 
+ }
+ .galler {
+ font-family: sans-serif;
+ letter-spacing: 1px;
+ font-size: small;
+ left: 290px;
+ text-align: center;
+ 
+
+ }
+
+ div .galle img { 
+  position: relative;
+  left: 290px;
+  align-items: center;
+ 
+ }
+ .galle {
+ font-family: sans-serif;
+ letter-spacing: 1px;
+ font-size: small;
+ left: 290px;
+
+ }
+
+ .quinto {
+ padding: 10px;
+ background-color: white;
+ 
+}
+
+ div h3 {
+font-family: sans-serif;
+color: #0095B6;
+letter-spacing: 1px;
+ }
+
+ .sesto {
+  padding: 10px;
+  background-color: white;
+ 
+ 
+  }
+
+  footer {
+  padding: 10px;
+  font-family: sans-serif;
+  color: whitesmoke;
+  letter-spacing: 1px;
+
+
+  }
+
+  .bigliettivoli { 
+   font-family: sans-serif;
+   position: absolute;
+   top: 222px;
+   padding: 10px;
+   background-color: #293133;
+   border: 2px white solid
+  }
